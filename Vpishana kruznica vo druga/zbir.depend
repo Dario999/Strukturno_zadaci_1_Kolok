@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1510260294 source:c:\users\dario\desktop\zbir\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1510260431 source:c:\users\dario\desktop\strukturno zadaci\vpishana kruznica vo druga\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

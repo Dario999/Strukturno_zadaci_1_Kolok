@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1510308832 source:c:\users\dario\desktop\tesa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

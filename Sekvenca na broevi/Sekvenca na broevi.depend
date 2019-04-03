@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1509650769 source:c:\users\dario\desktop\sekvenca na broevi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
